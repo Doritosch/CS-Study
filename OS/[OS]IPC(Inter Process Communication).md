@@ -140,3 +140,12 @@ PIPE나 FIFO와 달리, 다수의 프로세스 간 메시지를 전달할 수 �
 
 
 
+<br>
+<br>
+reference
+<br>
+https://velog.io/@nnnyeong/OS-IPC-Inter-Process-Communication
+<br>
+https://dar0m.tistory.com/233
+<br>
+https://velog.io/@palinyee12/%EB%A6%AC%EB%88%85%EC%8A%A4-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D-IPC-Socket-%ED%86%B5%EC%8B%A0-%EB%8B%A4%EB%A3%A8%EA%B8%B0

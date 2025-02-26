@@ -55,3 +55,9 @@ CPU가 명령어를 수행하다가 처리할 수 없는 예외 상황을 만나
 6. 인터럽트 처리 루틴 처리 후 상태 복구
 7. PCB에서 정보 가져오기
 8. 명령어 수행
+
+<br>
+<br>
+reference
+<br>
+https://baebalja.tistory.com/354
